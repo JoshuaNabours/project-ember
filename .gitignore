@@ -1,0 +1,38 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual Environments
+
+venv/
+.env/
+
+# Environment Variables / Secrets
+
+.env
+*.env
+
+# Audio Output
+
+*.wav
+*.mp3
+
+# AI Models
+
+*.onnx
+models/
+
+# Logs
+
+*.log
+
+# IDE Settings
+
+.vscode/
+.idea/
+
+# OS Junk
+
+.DS_Store
+Thumbs.db
